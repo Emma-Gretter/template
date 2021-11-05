@@ -2,6 +2,7 @@
 *.csv
 *.ipynb
 *.ipynb_checkpoints
+.env
 config.py
 __pycache__
 config.js
